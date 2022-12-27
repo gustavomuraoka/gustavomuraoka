@@ -2,7 +2,7 @@ Hello, I'm Gustavo Muraoka <br>
 20 years old <br>
 Brazilian <br> 
 Currently studying biotechnology at Universidade Federal de São Paulo (UNIFESP) <br>
-Learning R and Python due my interest in bioinformatics <br>
+Learning C and Python <br>
 Looking forward to learn whatever helps me code better <br>
 Contact me: gustavo.muraoka@unifesp.br (very likely to be seen faster) or gustavomuraoka15@gmail.com <br>
 
