@@ -15,8 +15,8 @@
 
 
 <p align="center">
-  <a href="#English">English</a> •
-  <a href="#Portuguese">Portuguese</a>
+  English •
+  Portuguese
 </p>
 
 <p id="English">
