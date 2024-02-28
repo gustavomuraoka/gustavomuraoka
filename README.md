@@ -76,16 +76,12 @@
   <br><br>
 
   <h3> Skills</h3>
-  Trabalho regularmente <br>
+  • C# <br>
   • Python <br>
+  • HTML, JS, PHP <br>
   • MySql <br>
   • C <br>
   • R <br>
-  <br> 
-  Já utilizei antes <br>
-  • HTML, JS, PHP <br>
-  • Java <br>
-  • C# <br>
 
   
 <!--
