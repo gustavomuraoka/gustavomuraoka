@@ -41,16 +41,14 @@
   <br><br>
 
   <h3> Skills</h3>
-  Regular work <br>
+  • C# <br>
   • Python <br>
+  • HTML, JS, PHP <br>
   • MySql <br>
   • C <br>
   • R <br>
-  <br> 
-  I've used before <br>
-  • HTML, JS, PHP <br>
-  • Java <br>
-  • C# <br>
+  
+  
   
   <br><br><br>
 
