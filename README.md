@@ -24,10 +24,10 @@
   • I'm Gustavo Muraoka, born in 2003. <br>
   • Brazilian, living near São Paulo.<br>
   • Studied at ETEC Ilza Nascimento Pintus (2017 - 2019). They provide coding lessons (Java, C#, HTML, PHP, JS) with regular high school subjects. <br>
-  • Studying at Universidade Federal de São Paulo (Among top-10 brazilian universities) <br>
-  • Bachelor of Science and Technology ➡️ Heading to Bachelor of Biotechnology, also studing Computer Science. <br>
-  • Highly interested in developing softwares (mainly Bioinformatics softwares), and also how its possible to manage data to get amazing results. <br>
-  <b>• Solving problems is something I really like. Looking forward to opportunities and ideas at any field, not only at <i>Biological areas </i>
+  • Graduated at Universidade Federal de São Paulo, Bachelor of Science and Technology <br>
+  • Currently studying software development at FATEC Jessen Vidal <br>
+  • Highly interested in developing softwares and also how its possible to manage data to get amazing results <br>
+  <b>• Solving problems is something I really like. Looking forward to opportunities and ideas at any field </i>
 
   <br><br>
 
