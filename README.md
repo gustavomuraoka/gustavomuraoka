@@ -9,7 +9,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-GustavoMuraoka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-muraoka-4256721ba/)](https://www.linkedin.com/in/gustavo-muraoka-4256721ba/)
 <br> <br>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
+![](https://komarev.com/ghpvc/?username=gustavomuraoka&color=yellow)
 </h3>
 
 
