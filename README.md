@@ -4,8 +4,8 @@
 </h1>
 
 <h3 align="center">
-  <i>Developer, brazilian.</i>
-  (Trabalho com o CodeCommit, histórico do Github é de projetos pessoais 😅)
+  <i>Developer, brazilian.</i> <br>
+  ( Trabalho com o CodeCommit, histórico do Github é de projetos pessoais 😅 )
 <br> <br>
   
 [![Linkedin Badge](https://img.shields.io/badge/-GustavoMuraoka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-muraoka-4256721ba/)](https://www.linkedin.com/in/gustavo-muraoka-4256721ba/)
